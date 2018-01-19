@@ -2,7 +2,7 @@
 
 # compiled output
 /demo
-/build
+#/build
 /dist
 /tmp
 /out-tsc

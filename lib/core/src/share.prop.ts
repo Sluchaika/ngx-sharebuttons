@@ -244,5 +244,17 @@ export const shareButtonsProp: IShareButtons = {
     share: {
       operators: [printOperator]
     }
-  }
+  },
+  ok: {
+      type: 'ok',
+      text: 'Odnoclassniki',
+      icon: 'none',
+      color: '#4C75A3',
+      share: {
+          desktop: 'https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&st.shareUrl=',
+          android: 'https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&st.shareUrl=',
+          ios: 'https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&st.shareUrl=',
+          operators: [noneOperator]
+      }
+  },
 };

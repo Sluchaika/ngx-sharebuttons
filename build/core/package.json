@@ -40,5 +40,10 @@
   },
   "peerDependencies": {
     "@angular/common": "^5.0.0"
-  }
+  },
+  "main": "bundles/ngx-share-core.umd.js",
+  "module": "esm5/ngx-share-core.js",
+  "es2015": "esm2015/ngx-share-core.js",
+  "typings": "ngx-share-core.d.ts",
+  "metadata": "ngx-share-core.metadata.json"
 }

@@ -32,7 +32,8 @@
     "vk",
     "copy",
     "print",
-    "email"
+    "email",
+    "ok"
   ],
   "bugs": {
     "url": "http://github.com/murhafsousli/ngx-sharebuttons/issues"
