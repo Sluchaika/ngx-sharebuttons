@@ -1,5 +1,5 @@
 {
-  "name": "@ngx-share/core",
+  "name": "ngx-share/core",
   "description": "Share buttons components for Angular and Ionic.",
   "version": "VERSION",
   "private": false,
